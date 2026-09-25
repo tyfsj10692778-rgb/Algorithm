@@ -11,7 +11,7 @@ using namespace std;
 const int N = 1010;
 int w[N],c[N];
 int dp[N][N];
-int solve(int n, int C)
+/*int solve(int n, int C)
 {
 	for(int i = 1; i <= n; i++)
 		for(int j = 0; j <= C; j++)
@@ -21,6 +21,19 @@ int solve(int n, int C)
 		}
 	return dp[n][C];
 }
+*/
+
+int solve(int i, int j)
+{
+	if(dp[i][j] != 0) return dp[i][j];
+	if(i == 0) return 0;
+	int res;
+	if(c[j] > j) res = solve(i - 1, j);
+	else res = max(solve(i - 1, j),solve(i - 1 , j - c[i]) + w[i]);
+	return dp[i][j] = res;
+	
+}
+
 int main()
 {
 	ios::sync_with_stdio(false);
