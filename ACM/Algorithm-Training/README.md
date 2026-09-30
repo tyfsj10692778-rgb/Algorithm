@@ -8,3 +8,17 @@ My Algorithm-Training for ICPC.
 
 Rearrange part of the problems and add some new problems.
 
+
+
+2026.9.30
+
+Forgot to write down what I have done lol.
+
+OK,Let's restart from here.
+
+Today,using greedy and DP to solve HDU 1003.
+
+understanding more about transition func.
+
+Must redo it once and once again. 
+
