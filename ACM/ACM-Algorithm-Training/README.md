@@ -20,5 +20,11 @@ Today,using greedy and DP to solve HDU 1003.
 
 understanding more about transition func.
 
-Must redo it once and once again. 
+Must redo it once and once again.
+
+
+
+2026.10.1
+
+Two pointers and dfs and dp.
 
