@@ -28,3 +28,9 @@ Must redo it once and once again.
 
 Two pointers and dfs and dp.
 
+
+
+2026.10.2
+
+bfs and flooding
+
