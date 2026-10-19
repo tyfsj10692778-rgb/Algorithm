@@ -34,3 +34,13 @@ Two pointers and dfs and dp.
 
 bfs and flooding
 
+
+
+2026.10.20
+
+I forgot it again lol.
+
+today learn a basic algorithm.
+
+Intersting.
+
