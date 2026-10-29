@@ -44,3 +44,15 @@ today learn a basic algorithm.
 
 Intersting.
 
+
+
+2026.10.30
+
+recently I joined my school team.
+
+Why is coding so fucking damn hard?
+
+And my teammates are so so so so so creazy…
+
+a little stressed u k?
+
