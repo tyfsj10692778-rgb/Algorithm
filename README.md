@@ -56,3 +56,13 @@ And my teammates are so so so so so creazy…
 
 a little stressed u k?
 
+
+
+2026.11.19
+
+tree,bfs the tree and dfs the tree.
+
+Solve some problems.
+
+Why is coding so fucking hard???!!!
+
