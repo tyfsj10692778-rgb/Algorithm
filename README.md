@@ -66,3 +66,13 @@ Solve some problems.
 
 Why is coding so fucking hard???!!!
 
+
+
+2026.11.21
+
+Non,monsieur,Coding is so intersting!
+
+Today solve many bfs problems.
+
+Not so hard hum.
+
